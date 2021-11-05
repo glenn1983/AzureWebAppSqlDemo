@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'DoveAppOne'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7E5027B2156D45A8B69B3E12316B8A08 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AD055B39A4E24F298A3E85D70DA12589 }}
           package: .
